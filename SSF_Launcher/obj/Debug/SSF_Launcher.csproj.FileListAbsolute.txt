@@ -1,0 +1,12 @@
+C:\Users\bgibson\documents\visual studio 2013\Projects\SSF_Launcher\SSF_Launcher\bin\Debug\SSF_Launcher.exe.config
+C:\Users\bgibson\documents\visual studio 2013\Projects\SSF_Launcher\SSF_Launcher\bin\Debug\SSF_Launcher.exe
+C:\Users\bgibson\documents\visual studio 2013\Projects\SSF_Launcher\SSF_Launcher\bin\Debug\SSF_Launcher.pdb
+C:\Users\bgibson\documents\visual studio 2013\Projects\SSF_Launcher\SSF_Launcher\obj\Debug\SSF_Launcher.exe
+C:\Users\bgibson\documents\visual studio 2013\Projects\SSF_Launcher\SSF_Launcher\obj\Debug\SSF_Launcher.pdb
+C:\Users\bgibson\documents\visual studio 2013\Projects\SSF_Launcher\SSF_Launcher\obj\Debug\SSF_Launcher.csprojResolveAssemblyReference.cache
+C:\Users\bgibson\Documents\Visual Studio 2013\Projects\SSF_Launcher0\SSF_Launcher\bin\Debug\SSF_Launcher.exe.config
+C:\Users\bgibson\Documents\Visual Studio 2013\Projects\SSF_Launcher0\SSF_Launcher\obj\Debug\SSF_Launcher.exe
+C:\Users\bgibson\Documents\Visual Studio 2013\Projects\SSF_Launcher0\SSF_Launcher\obj\Debug\SSF_Launcher.pdb
+C:\Users\bgibson\Documents\Visual Studio 2013\Projects\SSF_Launcher0\SSF_Launcher\bin\Debug\SSF_Launcher.exe
+C:\Users\bgibson\Documents\Visual Studio 2013\Projects\SSF_Launcher0\SSF_Launcher\bin\Debug\SSF_Launcher.pdb
+C:\Users\bgibson\Documents\Visual Studio 2013\Projects\SSF_Launcher0\SSF_Launcher\obj\Debug\SSF_Launcher.csprojResolveAssemblyReference.cache
